@@ -14,7 +14,7 @@ export const DivFlipContainer = styled.div`
   width: 300px;
   height: 200px;
   perspective: 1000px;
-  &:hover ${ Flipper } {
+  &:hover ${ DivFlipper } {
     transform: rotateY(180deg);
   }
 `

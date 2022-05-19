@@ -63,6 +63,25 @@
         "activities": "Trained Front-End developer person - React | React Router | RTL | Redux | context API | agile methodologies",
         "certificate": "Certificate"
       }
+    },
+    
+    "personalValues": {
+      "h2": "Personal values",
+      "p": "What i belive",
+      "whatIBelive": "The science, education and collaboration are fundamental pillars in building a better and fairer society and that excellence, in practice, is achieved in the habit of seeking excellence.",
+      "science": {
+        "front": "Science",
+        "back": "The search for the unknown, innovation and evolution make science the perfect tool to improve people's lives."
+      },
+      "education": {
+        "front": "Education",
+        "back": "Education democratizes knowledge. It has the ability to change the way people see the world. - And how they question it."
+      },
+
+      "collaboration": {
+        "front": "Collaboration",
+        "back": "Diversity is what makes us unique, but the only way to see the world is not to see it. Valuing others is respecting yourself."
+      }
     }
   }
 }

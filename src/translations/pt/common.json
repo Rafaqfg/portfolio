@@ -62,6 +62,26 @@
         "activities": "Formado pessoa desenvolvedora Front-End - React | React Router | RTL | Redux | Context | Metodologias ágeis",
         "certificate": "Certificado"
       }
+    },
+
+    "personalValues": {
+      "h2": "Valores pessoais",
+      "p": "No que eu acredito",
+      "whatIBelive": "Eu acredito que ciência, educação e colaboração são pilares fundamentais na construção de uma sociedade melhor e mais justa e que a excelência, na prática, se atinge no hábito de buscar a excelência.",
+      "science": {
+        "front": "Ciência",
+        "back": "A busca pelo desconhecido, a inovação e a evolução fazem da ciência a ferramenta perfeita para melhorar a vida das pessoas."
+      },
+      "education": {
+        "front": "Educação",
+        "back": "A educação democratiza o conhecimento. Tem a capacidade de mudar a forma com que as pessoas enxergam o mundo - E como o questionam."
+      },
+
+      "collaboration": {
+        "front": "Colaboração",
+        "back": "A diversidade é o que nos torna únicos, mas uma única forma de ver o mundo não é enxergá-lo. Valorizar os outros é respeitar a si mesmo."
+      }
     }
+
   }
 }

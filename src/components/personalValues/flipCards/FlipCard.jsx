@@ -1,7 +1,7 @@
 import React from 'react';
-import * as S from './FlipCard';
+import * as S from './FlipCard.styled';
 
-function Card(props) {
+function FlipCard(props) {
   return (
     <S.DivFlipContainer>
       <S.DivFlipper>
@@ -17,4 +17,4 @@ function Card(props) {
   );
 }
 
-export default Card;
+export default FlipCard;
