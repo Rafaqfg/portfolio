@@ -31,6 +31,8 @@ Dica: Utilize Ctrl(CMD)+click para clicar nos links abaixo.
 
 Tip: Use Ctrl(CMD)+click to click on the links below.
 ## References and Licenses for Use
+
+### React-vertical-timeline-component
 - Open to see the license to use [MIT-License](https://github.com/stephane-monnot/react-vertical-timeline/blob/master/LICENSE).
 ### Eslint-Trybe
 - Open to see the license to use [Eslint-Trybe](https://github.com/betrybe/eslint-config-trybe/blob/main/LICENSE).
