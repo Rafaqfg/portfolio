@@ -9,10 +9,10 @@ class MainPage extends React.Component {
   
     return (
       <>
-      <Header />
-      <S.StyledMain>
-        <TimeLine />
-      </S.StyledMain>
+        <Header />
+        <S.StyledMain>
+          <TimeLine />
+        </S.StyledMain>
       </>
     );
   };

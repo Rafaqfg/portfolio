@@ -42,3 +42,8 @@ p.title {
 p#time-line {
   padding-bottom: 35px;
 }
+
+.flip-card-back {
+  text-align: center;
+  padding: 30px 10px 30px;
+}
