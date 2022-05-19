@@ -1,0 +1,11 @@
+.link-btn {
+  background: none!important;
+  border: none;
+  font-family: -apple-system, sans-serif;
+  font-size: max(1em);
+  cursor: pointer;
+}
+
+.link-btn:hover {
+transform: scale(1.1);
+}
