@@ -1,0 +1,104 @@
+{
+  "header": {
+      "hire.me": "Hire me",
+      "introduction": "Hi! How nice to have you here! my name is Rafael Godoy and I have a degree in Front-End Web Development from the technology school Trybe, where I am completing the training in Back-End Web Development. Here you will get to know a little of my trajectory and see where my curious nature has taken me so far. You will also be able to see under what values I built my history and how I see the world. Come on?"
+  },
+
+  "main": {
+    "h2": "Work experience & Education",
+    "p": "My previous jobs and my qualifications",
+    "jobs": {
+      "first": {
+        "description": "First Job",
+        "where": "Telefônica",
+        "activities": "Telefonica's technical support attendant"
+      },
+      "second": {
+        "description": "First Restaurant",
+        "where": "São Carlos - sp",
+        "activities": "Opening of my first restaurant in the city of São Carlos-sp"
+      },
+      "third": {
+        "description": "Second Restaurant",
+        "where": "Americana - sp",
+        "activities": "Opening of my second restaurant in the city of Americana-sp"
+      },
+      "next": {
+        "description": "Jr Front-End Web Developer",
+        "where": "Your company here",
+        "activities": "What about we built this card together?",
+        "hire.me": "Hire me"
+      }
+    },
+
+    "studies": {
+      "first": {
+        "description": "Chemistry Technician",
+        "where": "ETECAP",
+        "activities": "Technical graduate in chemistry"
+      },
+      "second": {
+        "description": "Bachelor of Chemistry",
+        "where": "USP",
+        "activities": "Bachelor of Science in Chemistry with emphasis in Food Chemistry"
+      },
+      "third": {
+        "date": "November - 2021",
+        "description": "Full-Stack Web Development",
+        "where": "Trybe",
+        "activities": "Beginning of training as a Full-Stack Developer person",
+        "meet": "What is Trybe?"
+      },
+      "fourth": {
+        "date": "January - 2022",
+        "description": "Fundamentals of Web Development",
+        "where": "Trybe",
+        "activities": "Completion of the fundamentals module - Linux | Git - GitHub | HTML5 | CSS3 | Web Storage | Flexbox | Mobile First | ES6 | Jest",
+        "certificate": "Certificate"
+      },
+      "fifth": {
+        "date": "May - 2022",
+        "description": "Front-End Web Development",
+        "where": "Trybe",
+        "activities": "Trained Front-End developer person - React | React Router | RTL | Redux | context API | agile methodologies",
+        "certificate": "Certificate"
+      }
+    },
+    
+    "personalValues": {
+      "h2": "Personal values",
+      "p": "What i belive",
+      "whatIBelive": "The science, education and collaboration are fundamental pillars in building a better and fairer society and that excellence, in practice, is achieved in the habit of seeking excellence.",
+      "science": {
+        "front": "Science",
+        "back": "The search for the unknown, innovation and evolution make science the perfect tool to improve people's lives."
+      },
+      "education": {
+        "front": "Education",
+        "back": "Education democratizes knowledge. It has the ability to change the way people see the world. - And how they question it."
+      },
+
+      "collaboration": {
+        "front": "Collaboration",
+        "back": "Diversity is what makes us unique, but the only way to see the world is not to see it. Valuing others is respecting yourself."
+      }
+    },
+   
+    "otherActivities": {
+      "h2": "Interests",
+      "p": "What i like",
+      "airplane": "Aviation",
+      "cooking": "Cooking",
+      "pc": "Surf on web",
+      "sports": "Play sports",
+      "tourist": "Travel",
+      "tv": "Watch documentaries",
+      "wine": "Wines"
+    }
+  },
+
+  "footer": {
+    "description": "Developed with skills in React, JS, CSS3, ContextAPI, React-i18next, HTML5, Styled Components, and a little bit of creativity! You can see the code and references",
+    "codeLink": "here"
+  }
+}
