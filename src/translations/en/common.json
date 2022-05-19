@@ -82,6 +82,18 @@
         "front": "Collaboration",
         "back": "Diversity is what makes us unique, but the only way to see the world is not to see it. Valuing others is respecting yourself."
       }
+    },
+   
+    "otherActivities": {
+      "h2": "Interests",
+      "p": "What i like",
+      "airplane": "Aviation",
+      "cooking": "Cooking",
+      "pc": "Surf on web",
+      "sports": "Play sports",
+      "tourist": "Travel",
+      "tv": "Watch documentaries",
+      "wine": "Wines"
     }
   }
 }

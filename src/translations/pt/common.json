@@ -81,7 +81,18 @@
         "front": "Colaboração",
         "back": "A diversidade é o que nos torna únicos, mas uma única forma de ver o mundo não é enxergá-lo. Valorizar os outros é respeitar a si mesmo."
       }
+    },
+    
+    "otherActivities": {
+      "h2": "Interesses",
+      "p": "O que eu gosto",
+      "airplane": "Aviação",
+      "cooking": "Cozinhar",
+      "pc": "Navegar na web",
+      "sports": "Praticar esportes",
+      "tourist": "Viajar",
+      "tv": "Assistir documentários",
+      "wine": "Vinhos"
     }
-
   }
 }
