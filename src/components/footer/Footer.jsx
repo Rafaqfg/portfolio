@@ -29,7 +29,9 @@ function Footer() {
             className="link-btn"
             type="button"
             src={ linkedin }
-            onClick={ () => window.open('https://www.linkedin.com/in/rafael-quaglia-franco-de-godoy/', '_blank') }
+            onClick={
+              () => window.open('https://www.linkedin.com/in/rafael-quaglia-franco-de-godoy/', '_blank')
+            }
           >
             <img src={ linkedin } className="social-media-icon" alt="linkedin"/>
           </button>
@@ -47,8 +49,11 @@ function Footer() {
             {t('footer.description')}
             <button
               className="link-btn"
-              onClick={ () => window.open('https://github.com/Rafaqfg', '_blank') }
-              >{t('footer.codeLink')}
+              onClick={
+                () => window.open('https://github.com/Rafaqfg/rafael-portfolio', '_blank')
+              }
+            >
+              {t('footer.codeLink')}
             </button>
             {`!`}
           </p>
