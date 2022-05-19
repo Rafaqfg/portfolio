@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../components/footer/Footer';
 import Header from '../components/header/Header';
 import Hobbies from '../components/hobbies/Hobbies';
 import PersonalValues from '../components/personalValues/PersonalValues';
@@ -17,6 +18,7 @@ class MainPage extends React.Component {
           <PersonalValues />
           <Hobbies />
         </S.StyledMain>
+        <Footer />
       </>
     );
   };

@@ -94,5 +94,10 @@
       "tv": "Assistir documentários",
       "wine": "Vinhos"
     }
+  },
+
+  "footer": {
+    "description": "Desenvolvido com conhecimentos em React, JS, CSS3, ContextAPI, React-i18next, HTML5, Styled Components, e um pouco de criatividade! Você pode ver o código e as referências",
+    "codeLink": "aqui"
   }
 }

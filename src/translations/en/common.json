@@ -95,5 +95,10 @@
       "tv": "Watch documentaries",
       "wine": "Wines"
     }
+  },
+
+  "footer": {
+    "description": "Developed with skills in React, JS, CSS3, ContextAPI, React-i18next, HTML5, Styled Components, and a little bit of creativity! You can see the code and references",
+    "codeLink": "here"
   }
 }
