@@ -2,6 +2,7 @@
   "name": "rafael-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rafaqfg.github.io/rafael-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -21,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint ."
+    "deploy": "npm run build && ./node_modules/.bin/gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +45,7 @@
   "devDependencies": {
     "eslint": "^8.15.0",
     "eslint-config-trybe-frontend": "^1.2.3",
-    "eslint-plugin-react": "^7.30.0"
+    "eslint-plugin-react": "^7.30.0",
+    "gh-pages": "^4.0.0"
   }
 }
