@@ -2,5 +2,66 @@
   "header": {
       "hire.me": "Me contrate",
       "introduction": "Olá! Que legal ter você por aqui! Meu nome é Rafael Godoy e sou formado em Front-End Web Development pela escola de tecnologia Trybe, onde estou concluindo a formação em Back-End Web Development. Aqui você vai conhecer um pouco da minha trajetória e ver pra onde a minha natureza curiosa já me levou até agora! Vai poder ver também sob quais valores eu construí minha história e como eu enxergo o mundo. Vamos lá?"
+  },
+  "main": {
+    "h2": "Educação e experiência de trabalho",
+    "p": "Trabalhos anteriores e meus conhecimentos",
+    "jobs": {
+      "first": {
+        "description": "Primeiro Emprego",
+        "where": "Telefônica",
+        "activities": "Atendente de suporte técnico de linhas da Telefônica"
+      },
+      "second": {
+        "description": "Primeiro Restaurante",
+        "where": "São Carlos - sp",
+        "activities": "Inauguração do meu primeiro restaurante na cidade de São Carlos-sp"
+      },
+      "third": {
+        "description": "Segundo Restaurante",
+        "where": "Americana - sp",
+        "activities": "Inauguração do meu segundo restaurante na cidade de Americana-sp"
+      },
+      "next": {
+        "description": "Jr Front-End Web Development",
+        "where": "Sua empresa aqui",
+        "activities": "Que tal construírmos essa etapa juntos?",
+        "hire.me": "Me contrate"
+      }
+    },
+
+    "studies": {
+      "first": {
+        "description": "Técnico em Química",
+        "where": "ETECAP",
+        "activities": "Formação em técnico em química"
+      },
+      "second": {
+        "description": "Bacharelado em Química",
+        "where": "USP",
+        "activities": "Curso de bacharelado em química com ênfase em química de alimentos"
+      },
+      "third": {
+        "date": "Novembro - 2021",
+        "description": "Full-Stack Web Development",
+        "where": "Trybe",
+        "activities": "Início da formação como pessoa desenvolvedora Full-Stack ",
+        "meet": "Conheça a Trybe"
+      },
+      "fourth": {
+        "date": "Janeiro - 2022",
+        "description": "Fundamentos do Desenvolvimento Web",
+        "where": "Trybe",
+        "activities": "Conclusão do módulo de fundamentos - Linux | Git - GitHub | HTML5 | CSS3 | Web Storage | Flexbox | Mobile First | ES6 | Jest",
+        "certificate": "Certificado"
+      },
+      "fifth": {
+        "date": "Maio - 2022",
+        "description": "Desenvolvimento Front-End",
+        "where": "Trybe",
+        "activities": "Formado pessoa desenvolvedora Front-End - React | React Router | RTL | Redux | Context | Metodologias ágeis",
+        "certificate": "Certificado"
+      }
+    }
   }
 }

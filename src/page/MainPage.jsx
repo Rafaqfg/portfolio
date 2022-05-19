@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/header/Header';
+import TimeLine from '../components/TimeLine';
 import * as S from './MainPage.styled';
 
 class MainPage extends React.Component {
@@ -10,6 +11,7 @@ class MainPage extends React.Component {
       <>
       <Header />
       <S.StyledMain>
+        <TimeLine />
       </S.StyledMain>
       </>
     );
