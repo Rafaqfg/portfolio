@@ -8,7 +8,7 @@ export const StyledFooter = styled.footer`
   margin-bottom: 0px;
   align-items: center;
   justify-content: space-between;
-  font-size: 1.1vw;
+  font-size: 1.1rem;
 ` 
 export const DivLogoContainer = styled.div`
   display: flex;

@@ -8,6 +8,7 @@ export const StyledHeader = styled.header`
   width: 100%;
   height: 100vh;
   margin-bottom: 0;
+
   ` 
   
 export const SectionBar = styled.section`
@@ -32,8 +33,9 @@ export const SectionBar = styled.section`
   }
 `
 export const SectionHeader = styled.section`
-  padding: 50px 10px 20px;
-  margin-top: 100px;
+  position: sticky;
+  flex: 1;
+  margin-top: 50px;
   display: flex;
   width: 100%;
   justify-content: space-evenly;
@@ -49,7 +51,11 @@ export const SectionHeader = styled.section`
   }
   img {
     object-fit: cover;
-    width: 320px;
     height: 440px;
+    max-width: 100%;
+  }
+
+  @media(max-width: 800px) {
+    flex-direction: column-reverse;
   }
 `
