@@ -1,7 +1,7 @@
 {
   "header": {
       "hire.me": "Hire me",
-      "introduction": "Hi! How nice to have you here! my name is Rafael Godoy and I have a degree in Front-End Web Development from the technology school Trybe, where I am completing the training in Back-End Web Development. Here you will get to know a little of my trajectory and see where my curious nature has taken me so far. You will also be able to see under what values I built my history and how I see the world. Come on?"
+      "introduction": "Hi! How nice to have you here! my name is Rafael Godoy and I have a degree in Front-end Web Development from the technology school Trybe, where I am completing the training in Back-end Web Development. Here you will get to know a little of my trajectory and see where my curious nature has taken me so far. You will also be able to see under what values I built my history and how I see the world. Let's go?"
   },
 
   "main": {
@@ -24,9 +24,9 @@
         "activities": "Opening of my second restaurant in the city of Americana-sp"
       },
       "next": {
-        "description": "Jr Front-End Web Developer",
+        "description": "Jr Front-end Web Developer",
         "where": "Your company here",
-        "activities": "What about we built this card together?",
+        "activities": "How about we built this card together?",
         "hire.me": "Hire me"
       }
     },
@@ -46,7 +46,7 @@
         "date": "November - 2021",
         "description": "Full-Stack Web Development",
         "where": "Trybe",
-        "activities": "Beginning of training as a Full-Stack Developer person",
+        "activities": "Beginning of training as a Full-Stack Developer",
         "meet": "What is Trybe?"
       },
       "fourth": {
@@ -60,15 +60,15 @@
         "date": "May - 2022",
         "description": "Front-End Web Development",
         "where": "Trybe",
-        "activities": "Trained Front-End developer person - React | React Router | RTL | Redux | context API | agile methodologies",
+        "activities": "Trained Front-End developer - React | React Router | RTL | Redux | context API | agile methodologies",
         "certificate": "Certificate"
       }
     },
     
     "personalValues": {
       "h2": "Personal values",
-      "p": "What i belive",
-      "whatIBelive": "The science, education and collaboration are fundamental pillars in building a better and fairer society and that excellence, in practice, is achieved in the habit of seeking excellence.",
+      "p": "What I belive",
+      "whatIBelive": "Science, education and collaboration are fundamental pillars in building a better and fairer society and that excellence, in practice, is achieved in the habit of seeking excellence.",
       "science": {
         "front": "Science",
         "back": "The search for the unknown, innovation and evolution make science the perfect tool to improve people's lives."
@@ -86,14 +86,14 @@
    
     "otherActivities": {
       "h2": "Interests",
-      "p": "What i like",
+      "p": "What I like",
       "airplane": "Aviation",
       "cooking": "Cooking",
       "pc": "Web surfing",
       "sports": "Sports",
       "tourist": "Travelling",
       "tv": "Documentaries",
-      "wine": "Wines"
+      "wine": "Wine"
     }
   },
 
