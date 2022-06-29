@@ -201,13 +201,13 @@ function TimeLine() {
           <p>
             {t('main.studies.fifth.activities')}
           </p>
-          {/* <a
-            href="#"
+          <a
+            href="https://www.credential.net/9e0935d5-931e-4df7-bb5d-ce85445efd0a#gs.4y2yhe"
             rel="noreferrer"
             target="_blank"
           >
             {t('main.studies.fifth.certificate')}
-          </a> */}
+          </a>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           dateClassName= "time-line-date-bottom"
