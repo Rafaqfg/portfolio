@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import MyContext from './MyContext';
 
 function MyProvider({ children }) {
-  const [isPortuguese, setIsPortuguese] = useState(true);
+  const [isPortuguese, setIsPortuguese] = useState(false);
 
   const ContextObject = {
     isPortuguese,

@@ -12,7 +12,7 @@ import GlobalCSS from './css/global.css';
 
 i18next.init({
   interpolation: { escapeValue: false },
-  lng: 'pt',
+  lng: 'en',
   resources: {
       pt: {
           common: common_pt
