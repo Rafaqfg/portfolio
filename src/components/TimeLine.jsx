@@ -210,6 +210,35 @@ function TimeLine() {
           </a>
         </VerticalTimelineElement>
         <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          dateClassName= "time-line-date-bottom"
+          date={t('main.studies.sixth.date')}
+          contentStyle={{ background: 'rgb(255,255,255, 0.5)' }}
+          contentArrowStyle={{ borderRight: '7px solid  rgb(255,255,255, 0.5)' }}
+          iconStyle={{ background: 'rgb(233, 30, 99)', color: 'rgb(0, 0, 0)' }}
+        >
+          <h3
+            className="vertical-timeline-element-title"
+          >
+            {t('main.studies.sixth.description')}
+          </h3>
+          <h4
+            className="vertical-timeline-element-subtitle"
+          >
+            {t('main.studies.sixth.where')}
+          </h4>
+          <p>
+            {t('main.studies.sixth.activities')}
+          </p>
+          <a
+            href="https://www.credential.net/91b68693-bae9-45f9-9f0e-b04a02245a5f#gs.hgj2h7"
+            rel="noreferrer"
+            target="_blank"
+          >
+            {t('main.studies.sixth.certificate')}
+          </a>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
           dateClassName= "time-line-date-bottom"
           date="2022 - ?"
           contentStyle={{ background: 'rgb(255,255,255, 0.5)' }}
