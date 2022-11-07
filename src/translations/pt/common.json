@@ -61,6 +61,13 @@
         "where": "Trybe",
         "activities": "Formado pessoa desenvolvedora Front-End - React | React Router | RTL | Redux | Context | Metodologias ágeis",
         "certificate": "Certificado"
+      },
+      "sixth": {
+        "date": "Outubro - 2022",
+        "description": "Desenvolvimento Back-End",
+        "where": "Trybe",
+        "activities": "Formado pessoa desenvolvedora Back-End - Node.js | Express.js Docker | RESTful | TypeScript | SOLID | OOP | mySQL | MongoDB",
+        "certificate": "Certificado"
       }
     },
 

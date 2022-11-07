@@ -60,7 +60,14 @@
         "date": "May - 2022",
         "description": "Front-End Web Development",
         "where": "Trybe",
-        "activities": "Trained Front-End developer - React | React Router | RTL | Redux | context API | agile methodologies",
+        "activities": "Trained Front-End developer - React.js | React Router | RTL | Redux | context API | agile methodologies",
+        "certificate": "Certificate"
+      },
+      "sixth": {
+        "date": "Oct - 2022",
+        "description": "Back-End Web Development",
+        "where": "Trybe",
+        "activities": "Trained Back-End developer - Node.js | Express.js Docker | RESTful | TypeScript | SOLID | OOP | mySQL | MongoDB",
         "certificate": "Certificate"
       }
     },
