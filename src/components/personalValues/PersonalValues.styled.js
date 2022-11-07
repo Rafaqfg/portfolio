@@ -5,8 +5,8 @@ export const SectionPersonalValues = styled.section`
   flex-direction: column;
   h3 {
     text-align: center;
-    width: 80vw;
-    margin-left: 110px;
+    width: 85vw;
+    margin-left: 120px;
   }
 `
 
